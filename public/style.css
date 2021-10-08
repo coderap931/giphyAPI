@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(56, 55, 55);
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: cornflowerblue;
+    text-align: center;
+    text-shadow: 3px 3px 3px black;
+}
+
+img {
+    width: 30vh;
+    margin: 1vh;
+    border: 3px solid rgb(156, 155, 155);
+    border-radius: 5%;
+}
+
+#container {
+    align-items: center;
+}
+
+#legal {
+    background-color: rgb(41, 40, 40);
+    color: cornflowerblue;
+    text-align: center;
+}
+
+#giphyLogo {
+    width: 200px;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    border: 0;
+}
